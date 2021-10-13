@@ -25,4 +25,4 @@ Portanto, fica claro que a criptografia é um conjunto de técnicas utilizadas p
 	5. [Hill Cipher](./src/HillCipher)
 
 2. Criptoanálise
-    1. [Criptoanálise com Estatística](./src/)
+    1. [Criptoanálise com Estatística](./src/CryptoAnalise)
